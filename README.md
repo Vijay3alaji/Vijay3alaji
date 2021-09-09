@@ -1,8 +1,8 @@
 <h1 align="center">
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
+   <a target="_blank">
+    <img src="https://github.com/Vijay3alaji/img/blob/main/%E2%80%94Pngtree%E2%80%94hola%20text%20handwriting_6578175.png" width="48px" style="max-width:100%;">
   </a>
- Bonjour, #include&lt;𝚌𝚘𝚍𝚎𝚛𝚜.h&gt;!
+ , #include&lt;𝚌𝚘𝚍𝚎𝚛𝚜.h&gt;!
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
@@ -97,23 +97,31 @@
 
 
 
+<h1>
+  Connect With Me
+  <a target="_blank">
+    <img src="https://github.com/Vijay3alaji/img/blob/main/Handshake.gif" height="25px" style="max-width:100%;">
+  </a>
+</h1>
 
-
-
-
-
-
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vija_y_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vija_y_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vijay-balajim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vijay-balajim/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/vjiayb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/vjiayb" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_.vijayy_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_.vijayy_/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/sinixer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/sinixer" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/vijaybalajim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/vijaybalajim" height="30" width="40" /></a>
+<p align="center">
+  <br>
+  <a href="https://www.linkedin.com/in/vijay-balajim/" target="_blank">
+    <code><img height="60" width="60" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></code>
+  </a>
+  <a href="https://kaggle.com/https://www.kaggle.com/vjiayb" target="_blank">
+    <code><img  height="60" width="60" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"></code>
+  </a>
+  <a href="https://www.instagram.com/_.vijayy_/" target="_blank">
+    <code><img height="60" width="60" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/></code>
+  </a>
+  <a href="https://twitter.com/vija_y_" target="_blank">
+    <code><img height="60" width="60" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"/></code>
+  </a>
+  <a href="https://www.hackerrank.com/https://www.hackerrank.com/vijaybalajim">
+    <code><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="62" width="62"></code>
+  </a>     
 </p>
+<br/>
+
 
