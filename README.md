@@ -20,10 +20,11 @@
 - 📫 How to reach me : *vijaybalajim@sase.ssn.edu.in*
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **if we have data, simply go with it, instead we have opinions** : *we go with mine :P*
 - <img src="https://github.com/Vijay3alaji/img/blob/main/house.png" width="20px" height="20px"/> Clan : **Uchiha** <img width="20px" height="20px" src="https://github.com/Vijay3alaji/img/blob/main/pngwing.com%20(1).png">
-- blah
-- blah
-- blah
-- blah
+- blah...
+- blah....
+- blah.....
+- blah......
+- blah;
 
 <br/>
 <br/>
@@ -85,7 +86,7 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Vijay3alaji&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
   <a href="https://github.com/Vijay3alaji">
-    <img align="right" height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay3alaji&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="right" height="110px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay3alaji&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
 </details>
