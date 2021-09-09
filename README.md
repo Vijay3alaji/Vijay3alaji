@@ -1,12 +1,11 @@
-![header](https://github.com/Vijay3alaji/img/blob/main/Game%20Day%20Livestream.png)
+![header](https://github.com/Vijay3alaji/img/blob/main/Game%20Day%20Livestream%20(1).png)
 
 <h1 align="center">
    <a target="_blank">
-    <img src="https://github.com/Vijay3alaji/img/blob/main/%E2%80%94Pngtree%E2%80%94hola%20text%20handwriting_6578175.png" width="48px" style="max-width:100%;">
+   
   </a>
- , #include&lt;𝚌𝚘𝚍𝚎𝚛𝚜.h&gt;!
   <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
+    
   </a>
 </h1>
 
