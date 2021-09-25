@@ -15,11 +15,11 @@
   <img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/MKorKFj0Muz4P0CI7D/giphy.gif?cid=ecf05e471mhb2mai0ogy96e9sunhd6gjslvud3hv4ux46xbh&rid=giphy.gif&ct=g">
 </a>
 
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 *𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎*
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 *𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 projects*
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 *Neural networks*
 - 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑 *𝙸𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙𝚜 or full-time*
 - 📫 How to reach me : *vijaybalajim@sase.ssn.edu.in*
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **if we have data, simply go with it, instead we have opinions** : *we go with mine :P*
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **if we have data allied information, simply go with it, instead we are tentative** : *we go with mine :P*
 - <img src="https://github.com/Vijay3alaji/img/blob/main/house.png" width="20px" height="20px"/> Clan : **Uchiha** <img width="20px" height="20px" src="https://github.com/Vijay3alaji/img/blob/main/pngwing.com%20(1).png">
 - blah..
 - blah...
