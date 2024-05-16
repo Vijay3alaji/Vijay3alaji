@@ -97,7 +97,7 @@
 
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/vijay_579?theme=unicorn&font=Happy%20Monkey)
+![LeetCode Stats](https://leetcard.jacoblin.cool/vijay_579?theme=nord&font=ABeeZee)
 
 
 
