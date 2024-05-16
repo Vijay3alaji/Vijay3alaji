@@ -59,7 +59,7 @@
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django"></code>
+<code><img height="40" width="40" src="https://icons8.com/icon/AksudKrBQryM/django" alt="django"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"></code>
