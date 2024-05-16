@@ -48,24 +48,25 @@
 </p>
 
 #
-<a target="_blank"><img align="left" height="250" width="225" alt="𝙶𝙸𝙵" src=https://github.com/Vijay3alaji/img/blob/main/giphy%20(1).gif></a>
+<a target="_blank"><img align="left" height="275" width="225" alt="𝙶𝙸𝙵" src=https://github.com/Vijay3alaji/img/blob/main/giphy%20(1).gif></a>
 <br>
 
 
-**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
-
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws"></code>
-<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure"></code>
+**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴S:**  
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"></code>
+<code><img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/></code>
+
+
+
+**𝚃𝙾𝙾𝙻𝚂 and LIBRARIES:** 
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws"></code>
+<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv"></code>
+<code><img width="40" height="40" src="https://img.icons8.com/material-outlined/48/000000/keras.png" alt="keras"/></code>
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow"></code>
-<code><img width="40" height="40" src="https://img.icons8.com/material-outlined/48/000000/keras.png" alt="keras"/></code>
-<code><code>
-
-**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:** 
 <code><img width="40" height="40" src="https://img.icons8.com/material-outlined/48/000000/keras.png" alt="keras"/></code>
 <br>
 
