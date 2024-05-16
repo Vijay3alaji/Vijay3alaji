@@ -48,7 +48,7 @@
 </p>
 
 #
-<a target="_blank"><img align="left" height="215" width="225" alt="𝙶𝙸𝙵" src=https://github.com/Vijay3alaji/img/blob/main/giphy%20(1).gif></a>
+<a target="_blank"><img align="left" height="200" width="225" alt="𝙶𝙸𝙵" src=https://github.com/Vijay3alaji/img/blob/main/giphy%20(1).gif></a>
 <br>
 
 
@@ -62,6 +62,7 @@
 
 
 **𝚃𝙾𝙾𝙻𝚂 and LIBRARIES:** 
+
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv"></code>
 <code><img width="40" height="40" src="https://img.icons8.com/material-outlined/48/000000/keras.png" alt="keras"/></code>
