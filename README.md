@@ -63,6 +63,10 @@
 <code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow"></code>
 <code><img width="40" height="40" src="https://img.icons8.com/material-outlined/48/000000/keras.png" alt="keras"/></code>
+<code><code>
+
+**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:** 
+<code><img width="40" height="40" src="https://img.icons8.com/material-outlined/48/000000/keras.png" alt="keras"/></code>
 <br>
 
 #
