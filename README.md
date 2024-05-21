@@ -52,7 +52,7 @@
 <br>
 
 
-**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴S:**  
+**Languages:**  
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv"></code>
@@ -61,7 +61,7 @@
 
 
 
-**𝚃𝙾𝙾𝙻𝚂 and LIBRARIES:** 
+**𝚃𝙾𝙾𝙻𝚂  and LIBRARIES:** 
 
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv"></code>
@@ -97,7 +97,7 @@
 
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/vijay_579?theme=nord&font=ABeeZee)
+<br align = "center">![LeetCode Stats](https://leetcard.jacoblin.cool/vijay_579?theme=nord&font=ABeeZee)</br>
 
 
 
