@@ -33,12 +33,11 @@
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Vijay3alaji?label=Followers&style=social">
 </p>
 
-</p>
+
 
 #
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Vijay3alaji&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/Vijay3alaji)
-<br>
-<br/>
+
 <p align="center">
   <a>
     <img height="120" width="150" src="https://github.com/Vijay3alaji/img/blob/main/left.png">
