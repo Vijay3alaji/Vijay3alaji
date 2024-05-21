@@ -93,9 +93,12 @@
 <br>
 
 
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Vijay3alaji&bg_color=000000&color=b000f0&line=ffffff&point=ae00ff&area=true&hide_border=true)
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑]()
 
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/vijay_579?theme=nord&font=ABeeZee](https://github-readme-activity-graph.vercel.app/graph?username=Vijay3alaji&bg_color=000000&color=b000f0&line=ffffff&point=ae00ff&area=true&hide_border=true" alt="LeetCode map">
+</p>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/vijay_579?theme=nord&font=ABeeZee" alt="LeetCode Stats">
