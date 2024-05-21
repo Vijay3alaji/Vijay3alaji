@@ -97,7 +97,7 @@
 
 
 
-<br align = "center">![LeetCode Stats](https://leetcard.jacoblin.cool/vijay_579?theme=nord&font=ABeeZee)</br>
+<p align = "center">![LeetCode Stats](https://leetcard.jacoblin.cool/vijay_579?theme=nord&font=ABeeZee)</p>
 
 
 
