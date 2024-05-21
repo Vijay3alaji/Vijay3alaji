@@ -97,7 +97,10 @@
 
 
 
-<p align = "center">![LeetCode Stats](https://leetcard.jacoblin.cool/vijay_579?theme=nord&font=ABeeZee)</p>
+
+<div style="text-align: center;">
+  <img src="https://leetcard.jacoblin.cool/vijay_579?theme=nord&font=ABeeZee" alt="LeetCode Stats">
+</div>
 
 
 
