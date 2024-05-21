@@ -54,8 +54,7 @@
 
 **Languages:**  
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"></code>
-<code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"></code>
 <code><img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/></code>
 
