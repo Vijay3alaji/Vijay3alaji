@@ -18,7 +18,7 @@
 - 📫 How to reach me: *vijaybalaji237@gmail.com*
 - 📑 Read my scribblings too: https://medium.com/@vijay.balaji
 
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝: **If we have data allied information, simply go with it; instead, if we have tentative opinion** : *then we go with mine :P*
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝: **If we have data allied information, go with it; instead, if we have tentative opinion** : *then we go with mine :P*
 - <img src="https://github.com/Vijay3alaji/img/blob/main/house.png" width="20px" height="20px"/> Clan : **Uchiha** <img width="20px" height="20px" src="https://github.com/Vijay3alaji/img/blob/main/pngwing.com%20(1).png">
 - blah...
 - blah...
@@ -60,8 +60,9 @@
 <code><img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/></code>
 </div>
 
-<div align = "center">
-**𝚃𝙾𝙾𝙻𝚂  and LIBRARIES:** 
+
+<div align="center">
+   <h1>TOOLS and LIBRARIES:</h1>
 </div>
 <div align = "center">
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws"></code>
