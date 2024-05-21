@@ -62,7 +62,7 @@
 
 
 <div align="center">
-   <h1>TOOLS and LIBRARIES:</h1>
+   <h4>TOOLS and LIBRARIES:</h4>
 </div>
 <div align = "center">
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws"></code>
