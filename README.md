@@ -92,7 +92,7 @@
 </details>
 <br>
 
-<p align="center" margin-bottom: 20px;>
+<p align="center" margin-bottom: 50px;>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vijay3alaji&bg_color=000000&color=b000f0&line=ffffff&point=ae00ff&area=true&hide_border=true" alt="LeetCode map">
 </p>
 
