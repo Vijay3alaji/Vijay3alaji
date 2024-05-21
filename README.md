@@ -51,7 +51,7 @@
 <a target="_blank"><img align="right" height="215" width="225" alt="𝙶𝙸𝙵" src=https://github.com/Vijay3alaji/img/blob/main/giphy%20(1).gif></a>
 <br>
 
-
+<div align = "center">
 **Languages:**  
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"></code>
@@ -69,7 +69,7 @@
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow"></code>
 <code><img width="40" height="40" src="https://img.icons8.com/material-outlined/48/000000/keras.png" alt="keras"/></code>
 <br>
-
+</div>
 #
 
 
