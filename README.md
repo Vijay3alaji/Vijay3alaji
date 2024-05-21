@@ -60,8 +60,9 @@
 <code><img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/></code>
 </div>
 
-
+<div align = "center">
 **𝚃𝙾𝙾𝙻𝚂  and LIBRARIES:** 
+</div>
 <div align = "center">
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws"></code>
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv"></code>
