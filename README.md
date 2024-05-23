@@ -46,7 +46,7 @@
 
 #
 
-<a target="_blank"><img align="right" height="225" width="280" alt="𝙶𝙸𝙵" src=https://github.com/Vijay3alaji/img/blob/main/giphy%20(1).gif></a>
+<a target="_blank"><img align="right" height="220" width="270" alt="𝙶𝙸𝙵" src=https://github.com/Vijay3alaji/img/blob/main/giphy%20(1).gif></a>
 
 
 <div>
