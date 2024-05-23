@@ -36,6 +36,7 @@
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Vijay3alaji&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/Vijay3alaji)
 
 #
+<br>
 <p align="center">
   <a>
     <img height="120" width="150" src="https://github.com/Vijay3alaji/img/blob/main/left.png">
