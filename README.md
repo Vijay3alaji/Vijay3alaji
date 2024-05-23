@@ -46,8 +46,7 @@
 
 #
 
-<a target="_blank"><img align="right" height="250" width="300" alt="𝙶𝙸𝙵" src=https://github.com/Vijay3alaji/img/blob/main/giphy%20(1).gif></a>
-<br>
+<a target="_blank"><img align="right" height="250" width="290" alt="𝙶𝙸𝙵" src=https://github.com/Vijay3alaji/img/blob/main/giphy%20(1).gif></a>
 
 
 <div>
@@ -72,11 +71,8 @@
 <code><img height="40" width="40" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow"></code>
 <code><img width="40" height="40" src="https://img.icons8.com/material-outlined/48/000000/keras.png" alt="keras"/></code>
 </div>
-<br>
 
 #
-
-
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
