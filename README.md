@@ -45,11 +45,7 @@
 </p>
 
 #
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <a target="_blank"><img align="right" height="215" width="225" alt="𝙶𝙸𝙵" src=https://github.com/Vijay3alaji/img/blob/main/giphy%20(1).gif></a>
 <br>
 
