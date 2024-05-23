@@ -94,11 +94,16 @@
 </details>
 <br>
 
-<div align="center"; margin-bottom: 250px;>
+<div align="center";>
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vijay3alaji&bg_color=000000&color=b000f0&line=ffffff&point=ae00ff&area=true&hide_border=true" alt="LeetCode map">
 </p>
 </div>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/vijay_579?theme=nord&font=ABeeZee" alt="LeetCode Stats">
