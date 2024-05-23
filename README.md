@@ -100,6 +100,8 @@
 
 
 #
+<br>
+<h3>Leetcode Stats : </h3>
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/vijay_579?theme=nord&font=ABeeZee" alt="LeetCode Stats">
 </p>
