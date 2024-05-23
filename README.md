@@ -101,7 +101,7 @@
 
 #
 <br>
-<h3>Leetcode Stats : </h3>
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/vijay_579?theme=nord&font=ABeeZee" alt="LeetCode Stats">
 </p>
@@ -112,8 +112,11 @@
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <h3>Github Stats : </h3>
+  <h3>Leetcode Stats : </h3>
 </summary>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/vijay_579?theme=nord&font=ABeeZee" alt="LeetCode Stats">
+</p>
 <br>
 </details>
 
