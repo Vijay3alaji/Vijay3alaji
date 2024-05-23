@@ -52,7 +52,7 @@
 
 
 <div>
-   <h4>Languages:</h4>
+   <h3>Languages:</h3>
 </div>
 <div align = "center">
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"></code>
