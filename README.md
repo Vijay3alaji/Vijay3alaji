@@ -28,6 +28,7 @@
 <br/>
 <br/>
 
+#
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=vijay3alaji&label=Profile%20views&color=0e75b6&style=flat" alt="vijay3alaji" /> • 
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Vijay3alaji?label=Followers&style=social">
@@ -132,8 +133,7 @@
     <code><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="62" width="62"></code>
   </a>     
 </p>
-<br/>
+
 
 #
-
 ![footer](https://github.com/Vijay3alaji/img/blob/main/footer.png)
