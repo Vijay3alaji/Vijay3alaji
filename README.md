@@ -32,10 +32,8 @@
   <img src="https://komarev.com/ghpvc/?username=vijay3alaji&label=Profile%20views&color=0e75b6&style=flat" alt="vijay3alaji" /> • 
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Vijay3alaji?label=Followers&style=social">
 </p>
+
 #
-
-
-
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Vijay3alaji&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/Vijay3alaji)
 
 #
