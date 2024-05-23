@@ -89,16 +89,13 @@
   <a href="https://github.com/Vijay3alaji">
     <img align="right" height="205px" width="410px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay3alaji&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
+   <div align="center";>
+<a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vijay3alaji&bg_color=000000&color=b000f0&line=ffffff&point=ae00ff&area=true&hide_border=true" alt="LeetCode map">
+</a>
+</div>
 </p>
 </details>
-<br>
-
-<div align="center";>
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vijay3alaji&bg_color=000000&color=b000f0&line=ffffff&point=ae00ff&area=true&hide_border=true" alt="LeetCode map">
-</p>
-</div>
-<br>
 <br>
 
 
