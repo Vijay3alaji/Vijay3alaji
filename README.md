@@ -6,11 +6,7 @@
   <a target="_blank">
   </a>
 </h1>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <a target="_blank">
   <img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/MKorKFj0Muz4P0CI7D/giphy.gif?cid=ecf05e471mhb2mai0ogy96e9sunhd6gjslvud3hv4ux46xbh&rid=giphy.gif&ct=g">
 </a>
