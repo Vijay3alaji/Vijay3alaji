@@ -10,9 +10,7 @@
 <a target="_blank">
   <img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/MKorKFj0Muz4P0CI7D/giphy.gif?cid=ecf05e471mhb2mai0ogy96e9sunhd6gjslvud3hv4ux46xbh&rid=giphy.gif&ct=g">
 </a>
-<br>
-<br>
-<br>
+
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 *Something interesting*
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 *Neural networks*
 - 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑 *𝙸𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙𝚜 or full-time*
