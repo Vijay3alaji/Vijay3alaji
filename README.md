@@ -18,7 +18,6 @@
 - 📑 Read my scribblings too: [Medium](https://medium.com/@vijay.balaji)
 - 📜 Let’s connect the dots of innovation - visit my [LinkedIn](https://www.linkedin.com/in/vijay-balajim/)
 
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝: **If we have data allied information, go with it; instead, if we have tentative opinion** : *then we go with mine :P*
   
 
 #
