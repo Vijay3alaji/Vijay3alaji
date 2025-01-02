@@ -14,16 +14,10 @@
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 *Something interesting*
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 *Neural networks*
 - 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑 *𝙸𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙𝚜 or full-time*
-- 📫 How to reach me: *vijaybalaji237@gmail.com*
-- 📑 Read my scribblings too: https://medium.com/@vijay.balaji
+- 📫 How to reach me: *vijaybalaji235@gmail.com*
+- 📑 Read my scribblings too: [Medium](https://medium.com/@vijay.balaji)
 
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝: **If we have data allied information, go with it; instead, if we have tentative opinion** : *then we go with mine :P*
-- <img src="https://github.com/Vijay3alaji/img/blob/main/house.png" width="20px" height="20px"/> Clan : **Uchiha** <img width="20px" height="20px" src="https://github.com/Vijay3alaji/img/blob/main/pngwing.com%20(1).png">
-- blah...
-- blah...
-- blah...
-- blah.....
-
   
 
 <p align="center"> 
