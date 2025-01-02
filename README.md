@@ -8,7 +8,7 @@
 </h1>
 
 <a target="_blank">
-  <img align="right" height="150" width="250" alt="GIF" src="https://media.giphy.com/media/MKorKFj0Muz4P0CI7D/giphy.gif?cid=ecf05e471mhb2mai0ogy96e9sunhd6gjslvud3hv4ux46xbh&rid=giphy.gif&ct=g">
+  <img align="right" height="170" width="220" alt="GIF" src="https://media.giphy.com/media/MKorKFj0Muz4P0CI7D/giphy.gif?cid=ecf05e471mhb2mai0ogy96e9sunhd6gjslvud3hv4ux46xbh&rid=giphy.gif&ct=g">
 </a>
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 *Something interesting*
