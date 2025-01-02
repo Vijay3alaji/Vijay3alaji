@@ -16,14 +16,10 @@
 - 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑 *𝙸𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙𝚜 or full-time*
 - 📫 How to reach me: *vijaybalaji235@gmail.com*
 - 📑 Read my scribblings too: [Medium](https://medium.com/@vijay.balaji)
+- 📜 Let’s connect the dots of innovation - visit my [LinkedIn](https://www.linkedin.com/in/vijay-balajim/)
 
 - ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝: **If we have data allied information, go with it; instead, if we have tentative opinion** : *then we go with mine :P*
   
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=vijay3alaji&label=Profile%20views&color=0e75b6&style=flat" alt="vijay3alaji" /> • 
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Vijay3alaji?label=Followers&style=social">
-</p>
 
 #
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Vijay3alaji&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/Vijay3alaji)
