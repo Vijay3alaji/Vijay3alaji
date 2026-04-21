@@ -35,31 +35,6 @@
 
 ---
 
-## 📌 Table of Contents
-
-<details open>
-<summary><strong>Expand / Collapse Navigation</strong></summary>
-
-- [🧑‍💻 About Me](#-about-me)
-- [⚡ Quick Impact Numbers](#-quick-impact-numbers)
-- [🛠️ Tech Stack](#️-tech-stack)
-- [🚀 Featured Projects](#-featured-projects)
-  - [Offline YouTube Summarizer](#1️⃣-offline-youtube-summarizer)
-  - [SOQL Chatbot](#2️⃣-soql-chatbot)
-  - [Portfolio V2](#3️⃣-portfolio-v2)
-- [🏗️ Architecture Overview](#️-architecture-overview)
-- [💻 Quick Start](#-quick-start)
-- [📖 API & Docs Reference](#-api--docs-reference)
-- [🧪 Tests](#-tests)
-- [🗺️ Roadmap](#️-roadmap)
-- [🤝 Contributing](#-contributing)
-- [📊 GitHub Stats](#-github-stats)
-- [🧩 Connect](#-connect)
-
-</details>
-
----
-
 ## 🧑‍💻 About Me
 
 <table>
