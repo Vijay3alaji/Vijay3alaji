@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <!-- ANIMATED HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vijay%20Balaji&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Gen%20AI%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Data%20Scientist&descAlignY=54&descSize=18" width="100%"/>
